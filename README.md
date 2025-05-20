@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 
+
+I'm a certified ISTQB QA engineer with a strong background in marketing and travel management. I'm currently focusing on manual testing and API testing, learning practical skills and building my portfolio. 
+
+### 📫 Let's Connect!
+- ✉️ Email: kotlyarova.qa@gmail.com
+- 🌐 LinkedIn: www.linkedin.com/in/kotlyarova.qa
+- 💻 GitHub: https://github.com//kotlyarovaqa
+
 
 <!--
 **KotlyarovaQA/kotlyarovaqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
