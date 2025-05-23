@@ -5,7 +5,7 @@ I'm a certified ISTQB QA engineer with a strong background in marketing and trav
 ### 📫 Let's Connect!
 - ✉️ Email: kotlyarova.qa@gmail.com
 - 🌐 LinkedIn: www.linkedin.com/in/kotlyarova.qa
-- 💻 GitHub: https://github.com//kotlyarovaqa
+- 💻 GitHub: https://github.com/kotlyarovaqa
 
 
 <!--
